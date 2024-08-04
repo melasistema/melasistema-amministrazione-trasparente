@@ -1,0 +1,110 @@
+/**
+Breadcrumbs
+ */
+.breadcrumb-column.mela-breadcrumbs {
+    max-width: 90%;
+    margin: 0 auto;
+}
+.breadcrumb-column.mela-breadcrumbs a,
+.breadcrumb-column.mela-breadcrumbs span {
+    font-size:0.9rem;
+}
+
+
+/**
+Index
+ */
+.mela-trans-admin-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+@media (max-width: 768px) {
+    .mela-trans-admin-wrapper {
+        display: block;
+    }
+}
+
+.index-column.mela-trans-summary {
+    margin-bottom: 45px;
+}
+
+
+
+@media (min-width: 768px) {
+    .index-column.mela-trans-summary {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+}
+
+.index-column.mela-trans-summary h4 {
+    margin-bottom:25px;
+}
+
+.index-column.mela-trans-summary ul {
+    margin: 0px;
+    padding: 0;
+}
+
+.index-column.mela-trans-summary ul li {
+    list-style: none;
+}
+
+.index-column.mela-trans-summary ul > li > ul:not(:first-child) {
+    padding-left: 20px;
+}
+
+.index-column.mela-trans-summary ul > li > ul:not(:first-child) > li {
+    list-style: circle;
+}
+
+/**
+Content
+ */
+.mela-trans-content {
+    flex: 1 0 66.66%;
+    min-width: 66.66%;
+}
+
+.mela-trans-content p.mela-trans-section-description {
+    font-size: 0.9rem;
+    font-style: italic;
+    font-weight: bold;
+    color: hsl(0, 0%, 50%);
+    padding: 10px 0px 10px 0px;
+}
+
+
+.content-column.mela-trans-content ul {
+    list-style: none;
+    padding-left: 2%;
+    margin-bottom: 45px;
+}
+
+.content-column.mela-trans-content ul > li.pdf-icon:before {
+    content: "";
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('../../icons/doc-icon.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 5px;
+}
+
+.content-column.mela-trans-content ul > li.custom-icon:before {
+    content: "";
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('../../icons/link-icon.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 5px;
+}

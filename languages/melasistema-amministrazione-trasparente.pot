@@ -1,0 +1,194 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Amministrazione Trasparente\n"
+"POT-Creation-Date: 2024-08-04 11:43+0200\n"
+"PO-Revision-Date: 2024-08-04 11:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: melasistema-amministrazione-trasparente.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-melasistema-amministrazione-trasparente-admin-options.php:84
+msgid "Transparent Administration Settings"
+msgstr ""
+
+#: admin/class-melasistema-amministrazione-trasparente-admin-options.php:129
+msgid "Transparent Admin Options"
+msgstr ""
+
+#: admin/class-melasistema-amministrazione-trasparente-admin-options.php:130
+msgid "Options"
+msgstr ""
+
+#: admin/class-melasistema-amministrazione-trasparente-admin-options.php:252
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/class-melasistema-amministrazione-trasparente-admin-options.php:268
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-melasistema-amministrazione-trasparente-plugin-config.php:54
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: includes/class-melasistema-amministrazione-trasparente-plugin-config.php:55
+msgid "Check this to show breadcrumbs"
+msgstr ""
+
+#: includes/class-melasistema-amministrazione-trasparente-plugin-config.php:62
+msgid "Delete Settings"
+msgstr ""
+
+#: includes/class-melasistema-amministrazione-trasparente-plugin-config.php:63
+msgid "Check this to delete all settings on plugin uninstall"
+msgstr ""
+
+#: public/class-melasistema-amministrazione-trasparente-public.php:143
+msgid "Transparent Administration"
+msgstr ""
+
+#: public/partials/archive-mela_trans_admin.php:141
+msgid "Index"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:64
+msgctxt "Post Type General Name"
+msgid "Transparent Administration"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:65
+msgctxt "Post Type Singular Name"
+msgid "Transparent Administration"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:66
+#: system/class-melasistema-amministrazione-trasparente-system.php:82
+msgid "Transparency"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:68
+msgid "All Voices"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:69
+msgid "View Voice"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:70
+msgid "Add New Voice"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:71
+msgid "Add New"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:72
+msgid "Edit Voice"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:73
+msgid "Update Voice"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:74
+msgid "Search Voices"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:75
+msgid "No Voices Found"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:76
+msgid "No Voices found in Trash"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:83
+msgid "All Transparencies"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:93
+msgid "transparent-administration"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:125
+msgctxt "taxonomy general name"
+msgid "Sections"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:126
+msgctxt "taxonomy singular name"
+msgid "Section"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:127
+msgid "Search Sections"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:128
+msgid "All Sections"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:129
+msgid "Parent Section"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:130
+msgid "Parent Section:"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:131
+msgid "Edit Section"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:132
+msgid "Update Section"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:133
+msgid "Add New Section"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:134
+msgid "New Section Name"
+msgstr ""
+
+#: system/class-melasistema-amministrazione-trasparente-system.php:135
+msgid "Sections"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Amministrazione Trasparente"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://melasistema.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Semplifica la gestione della tua sezione Amministrazione Trasparente. Crea e "
+"aggiorna facilmente i contenuti obbligatori per legge, assicurando la "
+"completa conformità al D.Lgs. 14 marzo 2013, n. 33."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Luca Visciola"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lucavisciola.com/"
+msgstr ""
